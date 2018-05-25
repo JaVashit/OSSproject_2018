@@ -9,18 +9,12 @@ using namespace std;
 
 int main()
 {
-Mat img = imread("lena.png",CV_LOAD_IMAGE_COLOR); // Import image
+Mat img = imread("lena.jpg",CV_LOAD_IMAGE_COLOR); // Import image
 
-for (int i = 0; i <img.size().height; i += 2) {
-	for (int j = 0; j < img.size().width; j += 2) {
+for (int i = 0; i <img.size().height; i+=2) {
+	for (int j = 0; j < img.size().width; j+=2) {
 		int color = 0;
-		// Divide the image by a square of size 2 and calculate the RGB average within it
-		for (int k = 0; k < 2; k++) { 
-			for (int l = 0; l < 2; l++) {
-				if ((i + k) >= 0 && (j + l) < img.size().width) 
-					color += (img.at<Vec3b>(i + k,j + l)[0] + img.at<Vec3b>(i + k, j + l)[1] + img.at<Vec3b>(i + k, j + l)[2])/3;
-			}
-		}
+		color = (img.at<Vec3b>(i, j)[0] + img.at<Vec3b>(i, j)[1] + img.at<Vec3b>(i, j)[2]) / 3;
 		int pixel = (color / (2 * 2)); // Divide the calculated RGB mean value by the width of the square of size 2
 		
 		if (pixel >= 0 && pixel <= 15) cout << "#";
