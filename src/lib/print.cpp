@@ -21,3 +21,16 @@ void PrintAscii_img(CGUIDlg* pDlg, IplImage* ascii_img, Mat dst_img, string file
 	vImg.DrawToHDC(dc.m_hDC, &rect);	//출력
 	imwrite(file_name, dst_img); // 이미지 저장
 }
+
+void PrintAscii_vid(VideoWriter outputVideo, Mat dst, CGUIDlg* pDlg, IplImage* IplImage_img) {
+	outputVideo << dst;
+	CWnd* pWnd = pDlg->GetDlgItem(IDC_PIC);
+	pWnd->SetWindowPos(pDlg->GetParent(), 10, 10, 266, 266, NULL);
+	CClientDC dc(pWnd);
+	CRect rect;
+	pWnd->GetClientRect(&rect);
+
+	CvvImage vImg;
+	vImg.CopyOf(IplImage_img, 1);
+	vImg.DrawToHDC(dc.m_hDC, &rect);
+}

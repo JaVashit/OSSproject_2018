@@ -9,3 +9,4 @@ using namespace cv;
 using namespace std;
 
 void PrintAscii_img(CGUIDlg* pDlg, IplImage* ascii_img, Mat dst_img, string file_name);
+void PrintAscii_vid(VideoWriter outputVideo, Mat dst, CGUIDlg* pDlg, IplImage* IplImage_img);
