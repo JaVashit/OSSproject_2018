@@ -8,8 +8,9 @@ ASCII-Art will let you transform an input image into printable ASCII with colors
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ## results
-Before|After
-|---|---|
+
+(https://user-images.githubusercontent.com/37606473/40574679-471ea26e-6111-11e8-81bd-2efd579f8fa0.png)
+
 
 ## Getting Started
 To use this project, you have to set up Opencv library and MFC environment.
