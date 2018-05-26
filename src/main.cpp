@@ -1,3 +1,4 @@
+
 #include <opencv2\core\core.hpp>
 #include <opencv2\highgui\highgui.hpp>
 #include <opencv\cv.h>
@@ -73,8 +74,6 @@ int main(int argc, char *argv[]) {
 	imwrite("2.jpg", output_img);
 	imwrite("3.jpg", output_img2);
 	waitKey(0);
-
-
 	system("pause");
 	return 0;
 }
