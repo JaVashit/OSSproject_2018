@@ -1,18 +1,11 @@
-# Ascii - art
+# ASCII - ART
 
-One Paragraph of project description goes here
+Given a image or a M x N group of pixels, generate a text with colors that represents the image in ascii characters.
+
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
 
 ### Installing
 
