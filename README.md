@@ -41,7 +41,7 @@ So, Welcome to opinion to be better :laughing: :laughing:
 
 ## Authors
 * **Kyungho Lee** [JaVashit](https://github.com/JaVashit)
-* **Youngho Lee** [rweq1212](https://github.com/rweq1212)
+* **Youngho Kim** [rweq1212](https://github.com/rweq1212)
 * **Sewon Kim** [Siromom](https://github.com/Siromom)
 * **Soyeon Lee** [rooriririroo](https://github.com/rooriririroo)
 * **Eunju Jang** [jej4480](https://github.com/jej4480)
