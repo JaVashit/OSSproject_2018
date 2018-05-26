@@ -1,6 +1,6 @@
 # ASCII - ART
 
-Given a image or a M x N group of pixels, generate a text with colors that represents the image in ascii characters.
+ASCII-Art is let you transform an input image into printable ASCII with colors. 
 
 
 ## Getting Started
@@ -55,19 +55,13 @@ Add additional notes about how to deploy this on a live system
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Kyungho Lee**[JaVashit](https://github.com/JaVashit)
+* **Youngho Lee**[rweq1212](https://github.com/rweq1212)
+* **Sewon Lee** [Siromom](https://github.com/Siromom)
+* **Soyeon Lee**[rooriririroo](https://github.com/rooriririroo)
+* **Eunju Jang** [jej4480](https://github.com/jej4480)
 
 ## License
 
@@ -75,7 +69,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* [ascii-art](https://github.com/jgcmarins/ascii-art) code was used
 
