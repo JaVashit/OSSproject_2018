@@ -9,7 +9,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## results
 
-(https://user-images.githubusercontent.com/37606473/40574679-471ea26e-6111-11e8-81bd-2efd579f8fa0.png)
+![kakaotalk_photo_2018-05-26-18-17-00](https://user-images.githubusercontent.com/37606473/40574679-471ea26e-6111-11e8-81bd-2efd579f8fa0.png)
+
 
 
 ## Getting Started
