@@ -3,12 +3,12 @@
 ASCII-Art will let you transform an input image into printable ASCII with colors. 
 
 
-## Getting Started
+## input
+First, enter the image that you want to transform, then you can see the below screen.
+![kakaotalk_photo_2018-05-26-18-17-25](https://user-images.githubusercontent.com/37606473/40574773-5b498090-6113-11e8-9fd4-d6574c42eb94.png)
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-## results
-
+## output results
+depending the button that you choose, the result shows like this.
 ![kakaotalk_photo_2018-05-26-18-17-00](https://user-images.githubusercontent.com/37606473/40574679-471ea26e-6111-11e8-81bd-2efd579f8fa0.png)
 
 
