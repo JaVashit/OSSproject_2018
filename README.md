@@ -1,6 +1,6 @@
 # ASCII - ART
 
-ASCII-Art is let you transform an input image into printable ASCII with colors. 
+ASCII-Art will let you transform an input image into printable ASCII with colors. 
 
 
 ## Getting Started
@@ -33,8 +33,6 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-This project is based from jgcmarins's ascii-art(https://github.com/jgcmarins/ascii-art)
-
 * **Kyungho Lee** [JaVashit](https://github.com/JaVashit)
 * **Youngho Lee** [rweq1212](https://github.com/rweq1212)
 * **Sewon Lee** [Siromom](https://github.com/Siromom)
@@ -46,6 +44,5 @@ This project is based from jgcmarins's ascii-art(https://github.com/jgcmarins/as
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
-
-* [ascii-art](https://github.com/jgcmarins/ascii-art) code was used
+This project is based from [jgcmarins's ascii-art](https://github.com/jgcmarins/ascii-art)code was used
 
